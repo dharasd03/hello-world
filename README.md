@@ -1,2 +1,5 @@
 # hello-world
-hello dhara this side. so i am new to git hub. i want to introduce myself . my name is dhara and i have completed my MCA from GGSIPU. 
+Hello humans 
+
+I am new to git hub . i just want to gice a brief intro 
+My name  is dhara. and i am working in Negd as a php developer
